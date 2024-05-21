@@ -1,0 +1,206 @@
+[
+  {
+    "id": "1",
+    "title": "Mars'ta Su İzleri",
+    "description": "NASA, Mars'ta sıvı su izleri bulduğunu açıkladı.",
+    "category": "Uzay"
+  },
+  {
+    "id": "2",
+    "title": "En Hızlı 100m Koşucusu",
+    "description": "Usain Bolt, 100 metreyi 9.58 saniyede koşarak dünya rekoru kırdı.",
+    "category": "Spor"
+  },
+  {
+    "id": "3",
+    "title": "Yeni Flutter Versiyonu",
+    "description": "Flutter 2.0 ile birlikte web ve masaüstü desteği geldi.",
+    "category": "Yazılım"
+  },
+  {
+    "id": "4",
+    "title": "Bali'de Tatil",
+    "description": "Bali, beyaz kumlu plajları ve berrak denizi ile ünlüdür.",
+    "category": "Seyahat"
+  },
+  {
+    "id": "5",
+    "title": "Antik Yunan Kültürü",
+    "description": "Antik Yunan, felsefe ve bilimde büyük ilerlemeler kaydetmiştir.",
+    "category": "Genel Kültür"
+  },
+  {
+    "id": "6",
+    "title": "Uzay Turizmi",
+    "description": "SpaceX, uzay turizmi için roket geliştirmektedir.",
+    "category": "Uzay"
+  },
+  {
+    "id": "7",
+    "title": "Futbolun Efsanesi",
+    "description": "Pelé, futbol tarihinin en büyük oyuncularından biri olarak kabul edilir.",
+    "category": "Spor"
+  },
+  {
+    "id": "8",
+    "title": "Python'un Popülerliği",
+    "description": "Python, veri bilimi ve yapay zeka projelerinde en popüler programlama dillerinden biridir.",
+    "category": "Yazılım"
+  },
+  {
+    "id": "9",
+    "title": "Paris Gezisi",
+    "description": "Paris, Eyfel Kulesi ve Louvre Müzesi gibi ünlü turistik yerlere ev sahipliği yapar.",
+    "category": "Seyahat"
+  },
+  {
+    "id": "10",
+    "title": "Roma İmparatorluğu",
+    "description": "Roma İmparatorluğu, tarihteki en büyük ve en güçlü imparatorluklardan biriydi.",
+    "category": "Genel Kültür"
+  },
+  {
+    "id": "11",
+    "title": "Ay'a Yolculuk",
+    "description": "Apollo 11 görevi, 1969 yılında Neil Armstrong ve Buzz Aldrin'in Ay'a ayak basmasını sağladı.",
+    "category": "Uzay"
+  },
+  {
+    "id": "12",
+    "title": "Basketbolun Kralları",
+    "description": "Michael Jordan, NBA tarihinin en büyük basketbol oyuncularından biri olarak kabul edilir.",
+    "category": "Spor"
+  },
+  {
+    "id": "13",
+    "title": "JavaScript Framework'leri",
+    "description": "React, Angular ve Vue.js, en popüler JavaScript framework'lerindendir.",
+    "category": "Yazılım"
+  },
+  {
+    "id": "14",
+    "title": "Machu Picchu",
+    "description": "Machu Picchu, Peru'da bulunan ve İnka İmparatorluğu dönemine ait olan antik bir şehirdir.",
+    "category": "Seyahat"
+  },
+  {
+    "id": "15",
+    "title": "Orta Çağ Avrupa'sı",
+    "description": "Orta Çağ Avrupa'sı, feodal sistemin ve şövalyeliğin dönemi olarak bilinir.",
+    "category": "Genel Kültür"
+  },
+  {
+    "id": "16",
+    "title": "Uzay Yarışı",
+    "description": "Soğuk Savaş döneminde ABD ve Sovyetler Birliği arasında yaşanan uzay yarışı, Ay'a inişle zirveye ulaştı.",
+    "category": "Uzay"
+  },
+  {
+    "id": "17",
+    "title": "Olimpiyat Oyunları",
+    "description": "Olimpiyat Oyunları, dünya genelinde sporcuların katıldığı en büyük spor etkinliğidir.",
+    "category": "Spor"
+  },
+  {
+    "id": "18",
+    "title": "Yapay Zeka",
+    "description": "Yapay zeka, makine öğrenimi ve derin öğrenme gibi alanlarda büyük ilerlemeler kaydetmiştir.",
+    "category": "Yazılım"
+  },
+  {
+    "id": "19",
+    "title": "Japonya'da Gezi",
+    "description": "Japonya, tarihi tapınakları ve modern şehirleri ile ünlüdür.",
+    "category": "Seyahat"
+  },
+  {
+    "id": "20",
+    "title": "Rönesans Dönemi",
+    "description": "Rönesans, sanat, bilim ve edebiyatta büyük ilerlemelerin kaydedildiği bir dönemdir.",
+    "category": "Genel Kültür"
+  },
+  {
+    "id": "21",
+    "title": "Güneş Sistemi",
+    "description": "Güneş Sistemi, Güneş ve onun etrafında dönen sekiz gezegen ile diğer gök cisimlerinden oluşur.",
+    "category": "Uzay"
+  },
+  {
+    "id": "22",
+    "title": "Formula 1",
+    "description": "Formula 1, dünyanın en popüler motor sporları organizasyonlarından biridir.",
+    "category": "Spor"
+  },
+  {
+    "id": "23",
+    "title": "Bulut Bilişim",
+    "description": "Bulut bilişim, verilerin internet üzerinden depolanmasını ve işlenmesini sağlar.",
+    "category": "Yazılım"
+  },
+  {
+    "id": "24",
+    "title": "Yunan Adaları",
+    "description": "Yunan Adaları, güzel plajları ve tarihi kalıntıları ile ünlüdür.",
+    "category": "Seyahat"
+  },
+  {
+    "id": "25",
+    "title": "İslam'ın Altın Çağı",
+    "description": "İslam'ın Altın Çağı, bilim ve kültürde büyük ilerlemelerin kaydedildiği bir dönemdir.",
+    "category": "Genel Kültür"
+  },
+  {
+    "id": "26",
+    "title": "Uzay İstasyonları",
+    "description": "Uluslararası Uzay İstasyonu, farklı ülkeler tarafından ortaklaşa inşa edilmiştir.",
+    "category": "Uzay"
+  },
+  {
+    "id": "27",
+    "title": "Dünya Kupası",
+    "description": "FIFA Dünya Kupası, dünya genelinde en çok izlenen spor etkinliklerinden biridir.",
+    "category": "Spor"
+  },
+  {
+    "id": "28",
+    "title": "Veri Tabanı Yönetim Sistemleri",
+    "description": "SQL ve NoSQL, veri tabanı yönetim sistemlerinin iki ana türüdür.",
+    "category": "Yazılım"
+  },
+  {
+    "id": "29",
+    "title": "Dubai'de Gezi",
+    "description": "Dubai, modern mimarisi ve lüks alışveriş merkezleri ile ünlüdür.",
+    "category": "Seyahat"
+  },
+  {
+    "id": "30",
+    "title": "Sanayi Devrimi",
+    "description": "Sanayi Devrimi, üretim süreçlerinde büyük değişimlerin yaşandığı bir dönemdir.",
+    "category": "Genel Kültür"
+  },
+  {
+    "id": "31",
+    "title": "Güneş Patlamaları",
+    "description": "Güneş patlamaları, Güneş'in yüzeyinde ani enerji patlamalarıdır.",
+    "category": "Uzay"
+  },
+  {
+    "id": "32",
+    "title": "Maraton",
+    "description": "Maraton, 42 kilometre uzunluğunda bir koşu yarışıdır.",
+    "category": "Spor"
+  },
+  {
+    "id": "33",
+    "title": "Siber Güvenlik",
+    "description": "Siber güvenlik, internet üzerindeki tehditlere karşı bilgisayar sistemlerinin korunmasını sağlar.",
+    "category": "Yazılım"
+  },
+  {
+    "id": "34",
+    "title": "Hindistan Gezisi",
+    "description": "Hindistan, renkli kültürü ve tarihi yapıları ile ünlüdür.",
+    "category": "Seyahat"
+  }
+]
